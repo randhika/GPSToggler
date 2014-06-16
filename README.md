@@ -6,7 +6,7 @@ It requires the 'su' privilegies only during the very first run (reboot is still
 
 THIS CODE IS UNRESTRICTED PUBLIC DOMAIN
 
-Please don't ask any permissions to use this code in full or in part. It's grander by default.
+Please don't ask any permissions to use this code in full or in part. It's granted by default.
 
 Versions:
 
