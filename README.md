@@ -1,13 +1,12 @@
-=======
-THIS CODE IS 'UNRESTRICTED PUBLIC DOMAIN' LICENCED.
-
-
 GPSToggler
 ==========
 
 GPS toggle widget for Android rooted devices. It wrks well even for those ROMs and kernels, other software failed.
 It requires the 'su' privilegies only during the very first run (reboot is still required). 
 
+THIS CODE IS UNRESTRICTED PUBLICK DOMAIN
+
+Please don't ask any permissions to use this code in full or in part. It's grander by default.
 
 Versions:
 
