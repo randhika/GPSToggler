@@ -1,12 +1,20 @@
 GPSToggler
 ==========
 
-GPS toggle widget for Android rooted devices. It wrks well even for those ROMs and kernels, other software failed.
+GPS toggle widget for Android rooted devices. It works well even for those ROMs and kernels, other software failed.
 It requires the 'su' privilegies only during the very first run (reboot is still required). 
 
 THIS CODE IS UNRESTRICTED PUBLIC DOMAIN
 
 Please don't ask any permissions to use this code in full or in part. It's granted by default.
+
+
+Known issues:
+-------------
+
+1. HTC Evo 3D 4.0.3 custom ROM: reboot has no effect. Workaround: do reboot manually. 
+
+
 
 Versions:
 
